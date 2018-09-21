@@ -9,4 +9,6 @@ The blog covers the following concepts:
 - Anchor Boxes
 - YOLO Algorithm
 
+You can watch the video with the object detection algorithm in action [here](https://vimeo.com/291081165)
+
 If Object Detection seems to be a new word for you, you can learn the basics of object detection through the blog: [Introduction to Object Detection](https://www.hackerearth.com/blog/machine-learning/introduction-to-object-detection/).
