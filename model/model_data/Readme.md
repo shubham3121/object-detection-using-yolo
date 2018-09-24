@@ -1,6 +1,6 @@
-Download the following three files and move it to the model_data folder:
+Download the ['model_data.7z'](https://s3-ap-southeast-1.amazonaws.com/he-public-data/model_data.7z) and extract it and move the following three files to the 'model_data' folder:
 
-    - Download the YOLO pretrained model weights.
-    - Download the YOLO Toplesss model here. 
-    - Download the saved model weights here. 
+    - YOLO pretrained model weights (yolo.h5).
+    - YOLO Toplesss model here (yolo_topless.h5). 
+    - Saved model weights here (model.best.h5). 
    
